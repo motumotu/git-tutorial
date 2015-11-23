@@ -1,4 +1,4 @@
-# git-tutorial
+# Gitチュートリアル
 ---
 
 gitの練習
